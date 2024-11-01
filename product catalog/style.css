@@ -1,0 +1,6 @@
+.card-body {
+    height: 100px; /* Set fixed height for card body */
+}
+.card-title {
+    margin-bottom: 10px; /* Space between title and description */
+}
